@@ -6,5 +6,6 @@ setup(
     name="Authlib",
     install_requires=[
         "cryptography>=3.2",
+        "requests>=2.28"
     ],
 )
